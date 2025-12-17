@@ -16,5 +16,5 @@ public class PowerCalculation {
         System.out.println("Result: " + result);
 
        
-    }
+    } 
 }

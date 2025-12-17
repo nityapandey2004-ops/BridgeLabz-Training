@@ -11,7 +11,7 @@ public class SimpleInterest {
         System.out.print("Enter Rate: ");
         double rate = sc.nextDouble();
 
-        System.out.print("Enter Time: ");
+        System.out.print("Enter Time: "); 
         double time = sc.nextDouble();
 
         double simpleInterest = (principal * rate * time) / 100;
@@ -21,3 +21,4 @@ public class SimpleInterest {
 
     }
 }
+ 

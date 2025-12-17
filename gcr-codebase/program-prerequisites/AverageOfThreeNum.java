@@ -19,4 +19,4 @@ public class AverageOfThreeNum {
         System.out.println("Average: " + average);
 
         }
-}
+} 
