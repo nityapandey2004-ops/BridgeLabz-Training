@@ -6,7 +6,7 @@ class Smallest {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter first number: ");
-        int numb1 = sc.nextInt();
+        int num1 = sc.nextInt();
 
         System.out.print("Enter second number: ");
         int num2 = sc.nextInt();
