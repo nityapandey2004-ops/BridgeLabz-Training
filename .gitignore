@@ -1,0 +1,22 @@
+# Eclipse workspace (VERY IMPORTANT)
+.metadata/
+.settings/
+.classpath
+.project
+
+# Java build output
+bin/
+target/
+out/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+*.lock
+*.tmp
