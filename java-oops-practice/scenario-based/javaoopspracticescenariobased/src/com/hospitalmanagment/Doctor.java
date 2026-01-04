@@ -1,0 +1,23 @@
+package com.hospitalmanagment;
+
+public class Doctor {
+
+	 private int doctorId;
+	    private String name;
+	    private String specialization;
+
+	    public Doctor(int doctorId, String name, String specialization) {
+	        this.doctorId = doctorId;
+	        this.name = name;
+	        this.specialization = specialization;
+	    }
+
+	    public void assignPatient(Patient patient) {
+	        System.out.println("Dr. " + name + " assigned to " + patient.name);
+	    }
+
+	    public void displayInfo() {
+	        System.out.println("Doctor: " + name +
+	                ", Specialization: " + specialization);
+	    }
+	}
