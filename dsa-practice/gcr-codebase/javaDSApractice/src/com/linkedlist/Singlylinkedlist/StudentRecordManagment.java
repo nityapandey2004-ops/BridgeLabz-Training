@@ -1,4 +1,4 @@
-package com.Singlylinkedlist;
+package com.linkedlist.Singlylinkedlist;
 import java.util.Scanner;
 
 public class StudentRecordManagment {
